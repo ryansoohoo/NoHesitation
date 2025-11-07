@@ -15,10 +15,10 @@ MonoBehaviour:
   active: 1
   widthPixelation:
     m_OverrideState: 1
-    m_Value: 512
+    m_Value: 1024
   heightPixelation:
     m_OverrideState: 1
-    m_Value: 256
+    m_Value: 512
   colorPrecision:
     m_OverrideState: 1
     m_Value: 16
@@ -37,16 +37,16 @@ MonoBehaviour:
   active: 1
   patternIndex:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 2
   ditherThreshold:
     m_OverrideState: 1
-    m_Value: 3.53
+    m_Value: 8
   ditherStrength:
     m_OverrideState: 0
-    m_Value: 1.37
+    m_Value: 1
   ditherScale:
     m_OverrideState: 1
-    m_Value: 4.67
+    m_Value: 1.9
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -78,7 +78,7 @@ MonoBehaviour:
   active: 1
   fogDensity:
     m_OverrideState: 1
-    m_Value: 10
+    m_Value: 0
   fogDistance:
     m_OverrideState: 1
     m_Value: 4.7
